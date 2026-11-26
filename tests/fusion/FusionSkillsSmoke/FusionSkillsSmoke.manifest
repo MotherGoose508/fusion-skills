@@ -1,0 +1,9 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "script",
+  "author": "Fusion Skills",
+  "description": {"": "Verify a parameter-driven extrusion in a temporary Fusion document."},
+  "version": "1.0.0",
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}
